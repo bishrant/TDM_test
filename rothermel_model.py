@@ -21,7 +21,7 @@ import math
 def RothermelNetFuelLoading(self) : 
   """
   Calculates the net fuel loading given the fuel mineral content and the 
-  ovendry fuel loading.  This method is specified in Rothermel's eqn
+  ovendry fuel loading.  This method is specified in Rothermel's eqn 24
   Requires:
     self.totMineralContent 
     self.ovendryLoading
